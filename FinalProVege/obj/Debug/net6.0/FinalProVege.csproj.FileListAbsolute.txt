@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\FinalProVege.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\FinalProVege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\FinalProVege.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\FinalProVege.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\FinalProVege.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalProVege\FinalProVege\bin\Debug\net6.0\FinalProVege.exe
+C:\Users\User\source\repos\FinalProVege\FinalProVege\bin\Debug\net6.0\FinalProVege.deps.json
+C:\Users\User\source\repos\FinalProVege\FinalProVege\bin\Debug\net6.0\FinalProVege.runtimeconfig.json
+C:\Users\User\source\repos\FinalProVege\FinalProVege\bin\Debug\net6.0\FinalProVege.dll
+C:\Users\User\source\repos\FinalProVege\FinalProVege\bin\Debug\net6.0\ref\FinalProVege.dll
+C:\Users\User\source\repos\FinalProVege\FinalProVege\bin\Debug\net6.0\FinalProVege.pdb
+C:\Users\User\source\repos\FinalProVege\FinalProVege\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\FinalProVege.csproj.CopyComplete
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\FinalProVege.dll
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\ref\FinalProVege.dll
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\FinalProVege.pdb
+C:\Users\User\source\repos\FinalProVege\FinalProVege\obj\Debug\net6.0\FinalProVege.genruntimeconfig.cache

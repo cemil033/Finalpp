@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSR08mzPSZevQOYKiRNSl1fZUCCKj8DGkt2FWrHnRn32Uhj6FhmRj0X+ea0ohW89P8uGsL6QMegCv+VjqAWwpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\FinalProVege\\FinalProVege\\FinalProVege.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
